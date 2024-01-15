@@ -1,6 +1,7 @@
 # Interactive Toggle Buttons
 
-![Toggle Buttons](preview.png)
+![Toggle Buttons](IMG_20240115_193229.jpg)
+![Toggle Buttons](IMG_20240115_193254.jpg)
 
 ## Introduction
 Welcome to the Interactive Toggle Buttons project! This repository contains a collection of creatively designed toggle buttons with various styles and animations.
@@ -22,7 +23,7 @@ To get started with the Interactive Toggle Buttons, follow these steps:
 3. Explore and interact with the different toggle buttons.
 
 ## Contributing
-We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
+I welcome contributions from the community. If you'd like to contribute to this project, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/new-feature`.
@@ -30,13 +31,12 @@ We welcome contributions from the community! If you'd like to contribute to this
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
 
-We appreciate your contributions!
+I appreciate your contributions!
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
-- Email: your.email@example.com
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- Facebook: [@JohnDev19](https://www.facebook.com/IamJohnPoras.org)
+- GitHub: [JohnDev19](https://github.com/JohnDev19)
