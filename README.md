@@ -18,7 +18,7 @@ Welcome to the Interactive Toggle Buttons project! This repository contains a co
 ## Getting Started
 To get started with the Interactive Toggle Buttons, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/YourUsername/interactive-toggle-buttons.git`
+1. Clone the repository: `git clone https://github.com/JohnDev19/interactive-toggle-buttons.git`
 2. Open the `index.html` file in your preferred web browser.
 3. Explore and interact with the different toggle buttons.
 
