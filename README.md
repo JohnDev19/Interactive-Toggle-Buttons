@@ -7,7 +7,7 @@
 Welcome to the Interactive Toggle Buttons project! This repository contains a collection of creatively designed toggle buttons with various styles and animations.
 
 ## Preview
-![Toggle Buttons Preview](preview.gif)
+[Toggle Buttons Preview](https://johndev19.github.io/Interactive-Toggle-Buttons/)
 
 ## Table of Contents
 - [Getting Started](#getting-started)
