@@ -23,7 +23,7 @@ To get started with the Interactive Toggle Buttons, follow these steps:
 3. Explore and interact with the different toggle buttons.
 
 ## Contributing
-I welcome contributions from the community. If you'd like to contribute to this project, please follow these guidelines:
+I welcome contributions. If you'd like to contribute to this project, please follow these guidelines:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/new-feature`.
